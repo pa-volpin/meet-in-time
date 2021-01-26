@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=MeetInTime
+Comment=A simple way to organize your meetings
+Exec=/home/pavolpin/meet-in-time/meeting
+Icon=/home/pavolpin/meet-in-time/time.png
+Terminal=true
+Categories=Education
