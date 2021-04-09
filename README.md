@@ -1,4 +1,4 @@
-# Bem vindo ao Meet In Time [***Trivia***](#)
+# Bem vindo ao Meet In Time
 Meet In Time é um automatizador para abertura de chamadas do Zoom para ser usado no ambiente Linux.
 
 ## Requisitos
@@ -17,7 +17,7 @@ Para configurar o automatizador basta inputar o horário e o link da chamada (Ve
 ## Exemplo
 Reuniões do dia
 - Momento Inicial - 14h00 - https://trybe.zoom.us/j/92233698101
-- Aula ao Vivo Inicial - 16h35 - https://trybe.zoom.us/j/92233698102
+- Aula ao Vivo - 16h35 - https://trybe.zoom.us/j/92233698102
 - Fechamento - 19h40 - https://trybe.zoom.us/j/92233698103
 
 ### Inputs
