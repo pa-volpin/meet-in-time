@@ -14,22 +14,25 @@ Para usar o Meet In Time é necessário que tenha o Zoom instalado em sua máqui
 ## Inputs
 Para configurar o automatizador basta inputar o horário e o link da chamada (Veja exemplo).
 
-### Exemplo
+## Exemplo
 Reuniões do dia
 - Momento Inicial - 14h00 - https://trybe.zoom.us/j/92233698101
 - Aula ao Vivo Inicial - 16h35 - https://trybe.zoom.us/j/92233698102
 - Fechamento - 19h40 - https://trybe.zoom.us/j/92233698103
 
-Horario: 1400
-Link: https://trybe.zoom.us/j/92233698101
---------------------------------------------
-Horario: 1635
-Link: https://trybe.zoom.us/j/92233698102
---------------------------------------------
-Horario: 1940
-Link: https://trybe.zoom.us/j/92233698103
---------------------------------------------
-Horario: end
+### Inputs
+
+#### Horario: 1400
+#### Link: https://trybe.zoom.us/j/92233698101
+#### --------------------------------------------
+#### Horario: 1635
+#### Link: https://trybe.zoom.us/j/92233698102
+#### --------------------------------------------
+#### Horario: 1940
+#### Link: https://trybe.zoom.us/j/92233698103
+#### --------------------------------------------
+#### Horario: end
+
 
 ## Objetivo
 
