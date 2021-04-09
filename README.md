@@ -21,6 +21,7 @@ Reuniões do dia
 - Fechamento - 19h40 - https://trybe.zoom.us/j/92233698103
 
 ### Inputs
+OBS: A orderm não importa
 
 #### Horario: 1400
 #### Link: https://trybe.zoom.us/j/92233698101
