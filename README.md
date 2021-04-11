@@ -5,7 +5,7 @@ Meet In Time é um automatizador para abertura de chamadas do Zoom para ser usad
 Para usar o Meet In Time é necessário que tenha o Zoom instalado em sua máquina e que o mesmo esteja previamente logado em sua conta.
 
 ## Como usar
-1. Abre o terminal (CTRL + ALT + T)
+1. Abra o terminal (CTRL + ALT + T)
 2. Clone o repositório (git clone git@github.com:pa-volpin/meet-in-time.git
 )
 3. Mude para a pasta meet-in-time (cd meet-in-time)
